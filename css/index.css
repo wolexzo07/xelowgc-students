@@ -1,0 +1,27 @@
+*{
+    margin:0pt;
+}
+
+body{
+    background-color:red;
+}
+
+h1{
+    color:yellow;
+}
+
+#jh{
+    color:white;
+}
+
+.jh{
+    color:lightgreen;
+}
+.parag{
+    color:yellow;
+    background-color:transparent;
+    padding:20px;
+    font-size:30pt;
+    text-transform:lowercase;
+    border:5px solid black;
+}
